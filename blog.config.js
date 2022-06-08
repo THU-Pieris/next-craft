@@ -3,7 +3,7 @@ const BLOG = {
   author: 'Pieris',
   link: 'https://pieris-craft.vercel.app',
   description: 'Powered by Craft.do.',
-  lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW']
+  lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#F2F2F2', // use hex value, don't forget '#' e.g #fffefc
